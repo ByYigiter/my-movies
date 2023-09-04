@@ -15,7 +15,6 @@ class SearchBar extends React.Component {
 							type="text"
 							className="form-control"
 							placeholder="Seach a movie"
-				
 						/>
 					</div>
 				</div>
