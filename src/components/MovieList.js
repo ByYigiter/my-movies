@@ -6,10 +6,10 @@ const MovieList = (props) => {
 
 
 
-/*         function handleClick(event) {
+       function handleClick(event) {
             //console.log("Button Clicked");
             console.log(event.pageY)
-        } */
+        }
 
         return (
             <div className="row">
